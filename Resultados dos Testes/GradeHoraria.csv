@@ -1,0 +1,64 @@
+SEGUNDA,TERÇA,QUARTA,QUINTA,SEXTA
+Laboratório de Programação,Laboratório de Programação,,Álgebra Linear,
+Fundamentos Matemáticos,Introdução à Ciência da Computação,,Física Aplicada à Ciência da Computação,
+Introdução à Ciência da Computação,Fundamentos Matemáticos,Construção de Algoritmos,Construção de Algoritmos,
+Física Aplicada à Ciência da Computação,Física Aplicada à Ciência da Computação,,Álgebra Linear,Laboratório de Programação
+Álgebra Linear,Física Aplicada à Ciência da Computação,Fundamentos Matemáticos,Laboratório de Programação,Álgebra Linear
+,Laboratório de Programação,,Laboratório de Programação,Construção de Algoritmos
+,Fundamentos Matemáticos,Introdução à Ciência da Computação,Introdução à Ciência da Computação,Construção de Algoritmos
+,,,,
+,Análise e Projeto de Software,,Cálculo I,Programação Orientada a Objetos
+Estrutura de Dados I,Introdução aos Sistemas Digitais,Cálculo I,Introdução aos Sistemas Digitais,Cálculo I
+Análise e Projeto de Software,Análise e Projeto de Software,Programação Orientada a Objetos,Banco de Dados I,Estrutura de Dados I
+Introdução aos Sistemas Digitais,Banco de Dados I,Programação Orientada a Objetos,Cálculo I,Banco de Dados I
+Cálculo I,Banco de Dados I,Introdução aos Sistemas Digitais,,Estrutura de Dados I
+,Estrutura de Dados I,Programação Orientada a Objetos,Cálculo I,Análise e Projeto de Software
+,Programação Orientada a Objetos,,,Programação Orientada a Objetos
+,,,,
+,Programação Web,,,Metodologia de Pesquisa Científica
+Interação Homem-Máquina,Programação Web,Programação Web,Cálculo II,Arquitetura e Organização de Computadores I
+Engenharia de Software,,Cálculo II,,
+Engenharia de Software,Interação Homem-Máquina,,Arquitetura e Organização de Computadores I,Cálculo II
+Estrutura de Dados II,Arquitetura e Organização de Computadores I,Estrutura de Dados II,Arquitetura e Organização de Computadores I,Programação Web
+,Engenharia de Software,Metodologia de Pesquisa Científica,Estrutura de Dados II,Engenharia de Software
+Estrutura de Dados II,,,Cálculo II,
+,,,,
+Rede de Computadores,Arquitetura e Organização de Computadores II,Lógica e Matemática Discreta,"Ética, Computadores e Sociedade",
+Rede de Computadores,Matemática Computacional,,Arquitetura e Organização de Computadores II,Paradigmas de Programação
+Lógica e Matemática Discreta,,,,"Ética, Computadores e Sociedade"
+Matemática Computacional,Lógica e Matemática Discreta,,,Arquitetura e Organização de Computadores II
+Paradigmas de Programação,Matemática Computacional,Paradigmas de Programação,Lógica e Matemática Discreta,"Ética, Computadores e Sociedade"
+,Paradigmas de Programação,Arquitetura e Organização de Computadores II,Rede de Computadores,
+,Rede de Computadores,"Ética, Computadores e Sociedade",Matemática Computacional,
+,,,,
+Disciplina Optativa I,Disciplina Optativa I,Probabilidade e Estatística,Probabilidade e Estatística,Programação para Dispositivos Móveis
+Probabilidade e Estatística,,Probabilidade e Estatística,Processamento Digital de Imagens,
+Disciplina Optativa I,,Probabilidade e Estatística,Programação para Dispositivos Móveis,
+Programação para Dispositivos Móveis,,Programação para Dispositivos Móveis,Teoria dos Grafos,Sistemas Operacionais
+Processamento Digital de Imagens,,,,Sistemas Operacionais
+Processamento Digital de Imagens,Teoria dos Grafos,,Sistemas Operacionais,Teoria dos Grafos
+Teoria dos Grafos,Probabilidade e Estatística,Disciplina Optativa I,Processamento Digital de Imagens,Sistemas Operacionais
+,,,,
+Projeto Avançado de Algoritmos,Inteligência Artificial,Disciplina Optativa II,,Computação Gráfica
+Otimização de Sistemas,Computação Gráfica,Disciplina Optativa II,Teoria da Computação,
+,Otimização de Sistemas,Computação Gráfica,Disciplina Optativa II,Disciplina Optativa II
+Projeto Avançado de Algoritmos,Inteligência Artificial,,,Otimização de Sistemas
+,Inteligência Artificial,Inteligência Artificial,Projeto Avançado de Algoritmos,Computação Gráfica
+,Teoria da Computação,Projeto Avançado de Algoritmos,,
+Teoria da Computação,Teoria da Computação,,Otimização de Sistemas,
+,,,,
+Mineração de Dados,Educação das Relações Étnico-Raciais e Afrodescendência,Trabalho de Conclusão de Curso I,Trabalho de Conclusão de Curso I,
+,,,Mineração de Dados,Gramáticas e Compiladores
+,Trabalho de Conclusão de Curso I,Mineração de Dados,,Gramáticas e Compiladores
+,,Educação das Relações Étnico-Raciais e Afrodescendência,Gramáticas e Compiladores,Banco de Dados II
+Mineração de Dados,Mineração de Dados,,Banco de Dados II,Trabalho de Conclusão de Curso I
+Mineração de Dados,Trabalho de Conclusão de Curso I,Trabalho de Conclusão de Curso I,Gramáticas e Compiladores,Banco de Dados II
+Trabalho de Conclusão de Curso I,Trabalho de Conclusão de Curso I,,,Banco de Dados II
+,,,,
+Tópicos Especiais em Computação II,Sistemas Distribuídos,Sistemas Distribuídos,,
+,,,,
+Tópicos Especiais em Computação II,Tópicos Especiais em Computação II,,Tópicos Especiais em Computação I,
+Trabalho de Conclusão de Curso II,Trabalho de Conclusão de Curso II,,Trabalho de Conclusão de Curso II,Trabalho de Conclusão de Curso II
+Sistemas Distribuídos,Trabalho de Conclusão de Curso II,Trabalho de Conclusão de Curso II,,Trabalho de Conclusão de Curso II
+,Trabalho de Conclusão de Curso II,Tópicos Especiais em Computação I,,Tópicos Especiais em Computação I
+,Sistemas Distribuídos,,Tópicos Especiais em Computação II,Tópicos Especiais em Computação I
