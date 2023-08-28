@@ -3,7 +3,7 @@ function Exercicio0()
 
 
 ##  Matriz lida de um arquivo
-  listaDisciplinas = csv2cell('teste.csv');
+  listaDisciplinas = csv2cell('TesteCompleto.csv');
   listaDisciplinas = listaDisciplinas(2:end, :);
   qtdeDisciplinas = size(listaDisciplinas, 1);
   qtdeDias = 5;
@@ -11,7 +11,7 @@ function Exercicio0()
   qtdeTurmas = size(unique(cell2mat(listaDisciplinas(:,4))),1);
   quantElite = 2;
   quantLoops = 100;
-  qtdeIndividuos = 200;
+  qtdeIndividuos = 50;
   
 
   
@@ -19,7 +19,7 @@ function Exercicio0()
   
   turmas = unique(cell2mat(listaDisciplinas(:,4))); %lista das turmas, por enquanto é um valor inteiro
   turnos = unique(upper(listaDisciplinas(:,5))); %lista dos turnos, por enquanto é um cell de strings
-  professores = (unique(upper(listaDisciplinas(:,6))));
+##  professores = (unique(upper(listaDisciplinas(:,6))));
   listaTurnos = upper(listaDisciplinas(:,5));
   nomeDisciplinas = listaDisciplinas(:,2);
   listaProfessores = upper(listaDisciplinas(:,6));
@@ -61,6 +61,7 @@ function Exercicio0()
     grade = zeros(qtdeHorariosPorDia, qtdeDias, qtdeTurmas, qtdeIndividuos);
     grade(:, :, :, 1:(end - quantElite)) = grade2;
     grade(:, :, :, (qtdeIndividuos - quantElite + 1):qtdeIndividuos) = elite;
+    
   endfor
 
   gravaResultado(pontuacao,gradeDisciplinas,nomeDisciplinas,grade);

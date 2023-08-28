@@ -1,47 +1,47 @@
-Curso,Disciplina,Carga horaria,Turma
-Ciência da Computação,Construção de Algoritmos,4,1
-Ciência da Computação,Fundamentos Matemáticos,4,1
-Ciência da Computação,Laboratório de Programação,6,1
-Ciência da Computação,Álgebra Linear,4,1
-Ciência da Computação,Introdução à Ciência da Computação,4,1
-Ciência da Computação,Física Aplicada à Ciência da Computação,4,1
-Ciência da Computação,Análise e Projeto de Software,4,2
-Ciência da Computação,Programação Orientada a Objetos,6,2
-Ciência da Computação,Estrutura de Dados I,4,2
-Ciência da Computação,Banco de Dados I,4,2
-Ciência da Computação,Introdução aos Sistemas Digitais,4,2
-Ciência da Computação,Cálculo I,6,2
-Ciência da Computação,Programação Web,4,3
-Ciência da Computação,Interação Homem-Máquina,2,3
-Ciência da Computação,Engenharia de Software,4,3
-Ciência da Computação,Arquitetura e Organização de Computadores I,4,3
-Ciência da Computação,Estrutura de Dados II,4,3
-Ciência da Computação,Metodologia de Pesquisa Científica,2,3
-Ciência da Computação,Cálculo II,4,3
-Ciência da Computação,Arquitetura e Organização de Computadores II,4,4
-Ciência da Computação,Paradigmas de Programação,4,4
-Ciência da Computação,Matemática Computacional,4,4
-Ciência da Computação,Rede de Computadores,4,4
-Ciência da Computação,Lógica e Matemática Discreta,4,4
-Ciência da Computação,"Ética, Computadores e Sociedade",4,4
-Ciência da Computação,Programação para Dispositivos Móveis,4,5
-Ciência da Computação,Processamento Digital de Imagens,4,5
-Ciência da Computação,Sistemas Operacionais,4,5
-Ciência da Computação,Probabilidade e Estatística,6,5
-Ciência da Computação,Teoria dos Grafos,4,5
-Ciência da Computação,Disciplina Optativa I,4,5
-Ciência da Computação,Inteligência Artificial,4,6
-Ciência da Computação,Otimização de Sistemas,4,6
-Ciência da Computação,Computação Gráfica,4,6
-Ciência da Computação,Projeto Avançado de Algoritmos,4,6
-Ciência da Computação,Teoria da Computação,4,6
-Ciência da Computação,Disciplina Optativa II,4,6
-Ciência da Computação,Educação das Relações Étnico-Raciais e Afrodescendência,2,7
-Ciência da Computação,Trabalho de Conclusão de Curso I,8,7
-Ciência da Computação,Mineração de Dados,6,7
-Ciência da Computação,Banco de Dados II,4,7
-Ciência da Computação,Gramáticas e Compiladores,4,7
-Ciência da Computação,Sistemas Distribuídos,4,8
-Ciência da Computação,Tópicos Especiais em Computação I,4,8
-Ciência da Computação,Trabalho de Conclusão de Curso II,8,8
-Ciência da Computação,Tópicos Especiais em Computação II,4,8
+Curso,Disciplina,Carga horaria,Turma,Turno,Professor
+Ciência da Computação,Construção de Algoritmos,2,1,Matutino,Daniel Xavier
+Ciência da Computação,Fundamentos Matemáticos,2,1,Matutino,Fabiana
+Ciência da Computação,Laboratório de Programação,3,1,Matutino,Alexandre
+Ciência da Computação,Álgebra Linear,2,1,Matutino,Wesley
+Ciência da Computação,Introdução à Ciência da Computação,2,1,Matutino,Hugo
+Ciência da Computação,Física Aplicada à Ciência da Computação,2,1,Matutino,Marcelo Santos
+Ciência da Computação,Análise e Projeto de Software,2,2,Matutino,Otoniel
+Ciência da Computação,Programação Orientada a Objetos,3,2,Matutino,Alexandre
+Ciência da Computação,Estrutura de Dados I,2,2,Matutino,Sergio Canuto
+Ciência da Computação,Banco de Dados I,2,2,Matutino,Daniel Xavier
+Ciência da Computação,Introdução aos Sistemas Digitais,2,2,Matutino,Hugo
+Ciência da Computação,Cálculo I,3,2,Matutino,Maria Vaz
+Ciência da Computação,Programação Web,2,3,Matutino,Alessandro
+Ciência da Computação,Interação Homem-Máquina,1,3,Matutino,Otoniel
+Ciência da Computação,Engenharia de Software,2,3,Matutino,Otoniel
+Ciência da Computação,Arquitetura e Organização de Computadores I,2,3,Matutino,Hugo
+Ciência da Computação,Estrutura de Dados II,2,3,Matutino,Sergio Canuto
+Ciência da Computação,Metodologia de Pesquisa Científica,1,3,Matutino,Daniel Xavier
+Ciência da Computação,Cálculo II,2,3,Matutino,Maria Vaz
+Ciência da Computação,Arquitetura e Organização de Computadores II,2,4,Matutino,Hugo
+Ciência da Computação,Paradigmas de Programação,2,4,Matutino,Alessandro
+Ciência da Computação,Matemática Computacional,2,4,Matutino,Hugo
+Ciência da Computação,Rede de Computadores,2,4,Matutino,Alexandre
+Ciência da Computação,Lógica e Matemática Discreta,2,4,Matutino,Maria Vaz
+Ciência da Computação,"Ética, Computadores e Sociedade",2,4,Matutino,Substituto
+Ciência da Computação,Programação para Dispositivos Móveis,2,5,Matutino,Alexandre
+Ciência da Computação,Processamento Digital de Imagens,2,5,Matutino,Alessandro
+Ciência da Computação,Sistemas Operacionais,2,5,Matutino,Hugo
+Ciência da Computação,Probabilidade e Estatística,3,5,Matutino,Wesley
+Ciência da Computação,Teoria dos Grafos,2,5,Matutino,Katia
+Ciência da Computação,Disciplina Optativa I,2,5,Matutino,Substituto I
+Ciência da Computação,Inteligência Artificial,2,6,Matutino,Daniel Xavier
+Ciência da Computação,Otimização de Sistemas,2,6,Matutino,Katia
+Ciência da Computação,Computação Gráfica,2,6,Matutino,Alessandro
+Ciência da Computação,Projeto Avançado de Algoritmos,2,6,Matutino,Sergio Canuto
+Ciência da Computação,Teoria da Computação,2,6,Matutino,Alessandro
+Ciência da Computação,Disciplina Optativa II,2,6,Matutino,Substituto II
+Ciência da Computação,Educação das Relações Étnico-Raciais e Afrodescendência,1,7,Matutino,Abilio
+Ciência da Computação,Trabalho de Conclusão de Curso I,4,7,Matutino,Orientador
+Ciência da Computação,Mineração de Dados,3,7,Matutino,Sergio Canuto
+Ciência da Computação,Banco de Dados II,2,7,Matutino,Daniel Xavier
+Ciência da Computação,Gramáticas e Compiladores,2,7,Matutino,Alessandro
+Ciência da Computação,Sistemas Distribuídos,2,8,Matutino,Hugo
+Ciência da Computação,Tópicos Especiais em Computação I,2,8,Matutino,Alexandre
+Ciência da Computação,Trabalho de Conclusão de Curso II,4,8,Matutino,Sergio Canuto
+Ciência da Computação,Tópicos Especiais em Computação II,2,8,Matutino,Sergio Canuto
