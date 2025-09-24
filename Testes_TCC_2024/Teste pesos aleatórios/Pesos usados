@@ -1,0 +1,5 @@
+  profTrabalha = [10,8,6,4,0;  %Alessandro
+                  6,10,8,4,0;  %Alexandre
+                  8,4,10,6,0;  %Hugo
+                  4,6,8,10,0;  %Loja
+                  2,4,6,8,10]; %Maria

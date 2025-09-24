@@ -1,4 +1,4 @@
-function popBin = geraPopulacao(listaDisciplinas, qtdeHorariosPorDia, qtdeDias, qtdeDisciplinas, qtdeTurmas, qtdeIndividuos,gradeDisciplinas,listaTurnos)
+function popBin = geraPopulacao(listaDisciplinas, qtdeHorariosPorDia, qtdeDias, qtdeDisciplinas, qtdeTurmas, qtdeIndividuos,gradeDisciplinas,listaTurnos,listaProfessores)
 ##  Gerar uma população inicial
 ##  gradeSemana controla a tabela de horários
 
@@ -16,19 +16,30 @@ function popBin = geraPopulacao(listaDisciplinas, qtdeHorariosPorDia, qtdeDias, 
           do
             popBinSub(:,:,contDisciplina) = popBin(:,:,contDisciplina,contTurma,contIndividuo);
             flagColisao = 0;
+            popBinChecagem = 0;
             diasDisciplina = randi([1 qtdeDias], 1, cargaHorariaDisciplina);
             horarioDisciplina = randi([1 qtdeHorariosPorDia], 1, cargaHorariaDisciplina);
             parDiaHorario = [diasDisciplina; horarioDisciplina];
+            for i = 1:qtdeTurmas
+              popBinChecagem = popBinChecagem + popBin(:,:,:,i,contIndividuo);
+            endfor
             for contDiaHorario1 = 1:cargaHorariaDisciplina
-              if popBinSub(horarioDisciplina(contDiaHorario1),diasDisciplina(contDiaHorario1),:)==0
-                if strcmp(listaTurnos(contDisciplina),"MATUTINO") && (horarioDisciplina(contDiaHorario1)<4)
-                  popBinSub(horarioDisciplina(contDiaHorario1),diasDisciplina(contDiaHorario1),contDisciplina) = 1;
-                elseif (strcmp(listaTurnos(contDisciplina),"VESPERTINO") &&(horarioDisciplina(contDiaHorario1)>3 &&(horarioDisciplina(contDiaHorario1)<6)))
-                  popBinSub(horarioDisciplina(contDiaHorario1),diasDisciplina(contDiaHorario1),contDisciplina) = 1;
-                elseif (strcmp(listaTurnos(contDisciplina),"INTEGRAL") && horarioDisciplina(contDiaHorario1)<6)
-                  popBinSub(horarioDisciplina(contDiaHorario1),diasDisciplina(contDiaHorario1),contDisciplina) = 1;
-                elseif (strcmp(listaTurnos(contDisciplina),"NOTURNO")&&horarioDisciplina(contDiaHorario1)>5)
-                  popBinSub(horarioDisciplina(contDiaHorario1),diasDisciplina(contDiaHorario1),contDisciplina) = 1;
+##              Impede que um professor dê aula em mais de um lugar ao mesmo tempo
+              indices = find(popBinChecagem(horarioDisciplina(contDiaHorario1),diasDisciplina(contDiaHorario1),:));
+              if sum(strcmp(listaProfessores(contDisciplina),listaProfessores(indices))) == 0
+                if popBinSub(horarioDisciplina(contDiaHorario1),diasDisciplina(contDiaHorario1),:)==0
+                  if strcmp(listaTurnos(contDisciplina),"MATUTINO") && (horarioDisciplina(contDiaHorario1)<4)
+                    popBinSub(horarioDisciplina(contDiaHorario1),diasDisciplina(contDiaHorario1),contDisciplina) = 1;
+                  elseif (strcmp(listaTurnos(contDisciplina),"VESPERTINO") &&(horarioDisciplina(contDiaHorario1)>3 &&(horarioDisciplina(contDiaHorario1)<6)))
+                    popBinSub(horarioDisciplina(contDiaHorario1),diasDisciplina(contDiaHorario1),contDisciplina) = 1;
+                  elseif (strcmp(listaTurnos(contDisciplina),"INTEGRAL") && horarioDisciplina(contDiaHorario1)<6)
+                    popBinSub(horarioDisciplina(contDiaHorario1),diasDisciplina(contDiaHorario1),contDisciplina) = 1;
+                  elseif (strcmp(listaTurnos(contDisciplina),"NOTURNO")&&horarioDisciplina(contDiaHorario1)>5)
+                    popBinSub(horarioDisciplina(contDiaHorario1),diasDisciplina(contDiaHorario1),contDisciplina) = 1;
+                  else
+                    flagColisao = 1;
+                    break
+                  endif
                 else
                   flagColisao = 1;
                   break

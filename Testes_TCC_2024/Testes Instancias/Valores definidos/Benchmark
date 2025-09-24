@@ -1,0 +1,18 @@
+  Teste feito com valores definidos para a prioridade dos dias dos professores
+  
+  qtdeDias = 5;
+  qtdeHorariosPorDia = 7;
+  qtdeTurmas = size(unique(cell2mat(listaDisciplinas(:,4))),1);
+  quantElite = 2;
+  quantLoops = 100;
+  qtdeIndividuos = 200;
+ 
+  
+  probMut = 0.02; %Probabilidade de mutação de 2% ( dois porcento )
+  
+  
+    profTrabalha = [10,8,6,4,0;  %Alessandro
+                  6,10,8,4,0;  %Alexandre
+                  8,4,10,6,0;  %Hugo
+                  4,6,8,10,0;  %Loja
+                  2,4,6,8,10]; %Maria

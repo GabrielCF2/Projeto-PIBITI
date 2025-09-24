@@ -1,0 +1,12 @@
+Teste feito com valores aleatórioa para cada instância de testes
+
+  qtdeDias = 5;
+  qtdeHorariosPorDia = 7;
+  qtdeTurmas = size(unique(cell2mat(listaDisciplinas(:,4))),1);
+  quantElite = 2;
+  quantLoops = 100;
+  qtdeIndividuos = 200;
+ 
+  
+  probMut = 0.02; %Probabilidade de mutação de 2% ( dois porcento )
+  

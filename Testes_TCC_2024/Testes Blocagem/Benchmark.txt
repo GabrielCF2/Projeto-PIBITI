@@ -1,0 +1,10 @@
+qtdeDisciplinas = size(listaDisciplinas, 1); %No caso do teste foram 9
+qtdeDias = 5;
+qtdeHorariosPorDia = 7;
+qtdeTurmas = size(unique(cell2mat(listaDisciplinas(:,4))),1); %No caso do teste foram 2
+quantElite = 2;
+quantLoops = 100;
+qtdeIndividuos = 200;
+probMut = 0.02; %Probabilidade de mutação de 2% ( dois porcento )
+
+Os testes foram feitos sem o uso da matris de preferência de dias da semana

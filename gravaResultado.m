@@ -1,5 +1,5 @@
-function gravaResultado(nota,gradeDisciplinas,nomeDisciplinas,grade)
-  melhor = grade(:,:,:,1);
+function gravaResultado(nota,gradeDisciplinas,nomeDisciplinas,melhor)
+##  melhor = grade(:,:,:,1);
   [qtdeHorariosPorDia,qtdeDias,qtdeDisciplinas] = size(melhor);
   arquivo = cell(qtdeHorariosPorDia*qtdeDisciplinas+qtdeDisciplinas,qtdeDias);
   

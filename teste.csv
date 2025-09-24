@@ -1,10 +1,10 @@
-Curso,Materia,Carga horaria,Turma,Turno,Professor
-Ciência da Computação,Int. Cien. Comp.,1,1,Matutino,Hugo
-Ciência da Computação,Mat. Comp.,2,1,Matutino,Hugo
-Ciência da Computação,Pesq. Oper.,3,1,Matutino,Loja
-Ciência da Computação,Inf. Bás.,1,1,Matutino,Hugo
-Ciência da Computação,Informática,2,1,Matutino,Alessandro
-Ciência da Computação,Prog. Web,3,2,Matutino,Alessandro
-Ciência da Computação,Arquitetura 1,2,2,Matutino,Hugo
-Ciência da Computação,Prog. Orientada a Obj.,3,2,Matutino,Alexandre
-Ciência da Computação,Calculo 1,3,2,Matutino,Maria
+Curso,Materia,Carga horaria,Turma,Turno,Professor,Aula Blocada
+Ciência da Computação,Int. Cien. Comp.,1,1,Matutino,Hugo,1
+Ciência da Computação,Mat. Comp.,2,1,Matutino,Hugo,0
+Ciência da Computação,Pesq. Oper.,3,1,Matutino,Loja,0
+Ciência da Computação,Inf. Bás.,1,1,Matutino,Hugo,1
+Ciência da Computação,Informática,2,1,Matutino,Alessandro,1
+Ciência da Computação,Prog. Web,3,2,Matutino,Alessandro,1
+Ciência da Computação,Arquitetura 1,2,2,Matutino,Hugo,1
+Ciência da Computação,Prog. Orientada a Obj.,3,2,Matutino,Alexandre,0
+Ciência da Computação,Calculo 1,3,2,Matutino,Maria,0

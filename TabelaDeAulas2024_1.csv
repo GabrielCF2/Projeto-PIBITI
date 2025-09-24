@@ -1,0 +1,218 @@
+Curso,Disciplina,Carga horaria,Turma,Turno,Professor,Aula Blocada
+Bachar. Ciência da Computação,Construção de Algoritmos,2,1,MATUTINO,Wesley Rodrigues Miranda,0
+Bachar. Ciência da Computação,Fundamentos Matemáticos,2,1,MATUTINO,Maria de Oliveira Vaz dos Santos,0
+Bachar. Ciência da Computação,Laboratório de Programação,3,1,MATUTINO,Alexandre Bellezi José,0
+Bachar. Ciência da Computação,Álgebra Linear,2,1,MATUTINO,Fabiana Pimenta de Souza,0
+Bachar. Ciência da Computação,Introdução à Ciência da Computação,2,1,MATUTINO,Hugo Vinícius Leão e Silva,0
+Bachar. Ciência da Computação,Física Aplicada à Ciência da Computação,2,1,MATUTINO,Eder Dourado dos Santos,0
+Bachar. Ciência da Computação,Programação Web,2,3,MATUTINO,Alessandro Rodrigues e Silva,1
+Bachar. Ciência da Computação,Interação Homem-Máquina,1,3,MATUTINO,Francisco Rodrigues Lemes,0
+Bachar. Ciência da Computação,Engenharia de Software,2,3,MATUTINO,Francisco Rodrigues Lemes,0
+Bachar. Ciência da Computação,Arquitetura e Organização de Computadores I,2,3,MATUTINO,Hugo Vinícius Leão e Silva,0
+Bachar. Ciência da Computação,Estrutura de Dados II,2,3,MATUTINO,Sergio Daniel Carvalho Canuto,1
+Bachar. Ciência da Computação,Metodologia de Pesquisa Científica,1,3,MATUTINO,Wesley Rodrigues Miranda,0
+Bachar. Ciência da Computação,Cálculo II,2,3,MATUTINO,Wesley da Silva Ruys,0
+Bachar. Ciência da Computação,Programação para Dispositivos Móveis,2,5,MATUTINO,Alexandre Bellezi José,0
+Bachar. Ciência da Computação,Processamento Digital de Imagens,2,5,MATUTINO,Alessandro Rodrigues e Silva,1
+Bachar. Ciência da Computação,Sistemas Operacionais,2,5,MATUTINO,Hugo Vinícius Leão e Silva,0
+Bachar. Ciência da Computação,Probabilidade e Estatística,3,5,MATUTINO,Eder Silva de Brito,0
+Bachar. Ciência da Computação,Teoria dos Grafos,2,5,MATUTINO,Kátia Cilene Costa Fernandes,0
+Bachar. Ciência da Computação,Libras,2,5,MATUTINO,Newton da Rocha Nogueira,0
+Bachar. Ciência da Computação,Educação das Relações Étnico-raciais e Afro-descendência,1,7,MATUTINO,Abilio de Jesus Carrascal,0
+Bachar. Ciência da Computação,Trabalho de Conclusão de Curso I,1,7,MATUTINO,Sergio Daniel Carvalho Canuto,1
+Bachar. Ciência da Computação,Trabalho de Conclusão de Curso II,1,7,MATUTINO,Sergio Daniel Carvalho Canuto,1
+Bachar. Ciência da Computação,Mineração de Dados,3,7,MATUTINO,Sergio Daniel Carvalho Canuto,1
+Bachar. Ciência da Computação,Banco de Dados II,2,7,MATUTINO,Wesley Rodrigues Miranda,0
+Bachar. Ciência da Computação,Gramáticas e Compiladores,2,7,MATUTINO,Alessandro Rodrigues e Silva,1
+Bachar. em Engenharia Civil,Língua Portuguesa,2,8,MATUTINO,Aline Gomes da Silva,0
+Bachar. em Engenharia Civil,Cálculo I,3,8,MATUTINO,Maria de Oliveira Vaz dos Santos,0
+Bachar. em Engenharia Civil,Computação,1,8,MATUTINO,Francisco Rodrigues Lemes,0
+Bachar. em Engenharia Civil,Desenho Técnico I,2,8,MATUTINO,Lívia Ferreira Santana,0
+Bachar. em Engenharia Civil,Introdução a Engenharia Civil da Mobilidade,1,8,MATUTINO,Christiane Rosa de Paiva,0
+Bachar. em Engenharia Civil,Sociologia Urbana,2,8,MATUTINO,Marcelo Augusto de Lacerda Borges,0
+Bachar. em Engenharia Civil,Física I,2,8,MATUTINO,Eder Dourado dos Santos,0
+Bachar. em Engenharia Civil,Geometria Analítica,2,8,MATUTINO,Fabiana Pimenta de Souza,0
+Bachar. em Engenharia Civil,Engenharia e Meio Ambiente,1,9,MATUTINO,Valéria Conceição Mouro Costa,0
+Bachar. em Engenharia Civil,Física III,3,9,MATUTINO,Marcelo dos Santos Silva,0
+Bachar. em Engenharia Civil,Mêcanica dos Fluidos,2,9,MATUTINO,Frederico de Souza Aleixo,1
+Bachar. em Engenharia Civil,Cálculo III,2,9,MATUTINO,Wesley da Silva Ruys,0
+Bachar. em Engenharia Civil,Resistência dos Materiais I,2,9,MATUTINO,Paulo Henrique Menezes Silva,0
+Bachar. em Engenharia Civil,Topografia e Geodésia,3,9,MATUTINO,Patrícia Azevedo dos Santos,0
+Bachar. em Engenharia Civil,Ciência dos Materiais,2,9,MATUTINO,Thiago Eduardo Pereira Alves,0
+Bachar. em Engenharia Civil,Cálculo Numérico,2,10,MATUTINO,Maria de Oliveira Vaz dos Santos,0
+Bachar. em Engenharia Civil,Hidráulica,3,10,MATUTINO,Alexia Regine Costa Silva,0
+Bachar. em Engenharia Civil,Geotecnia I,3,10,MATUTINO,Ângela Custódia Guimarães Queiroz,0
+Bachar. em Engenharia Civil,Sistemas Elétricos Prediais,2,10,MATUTINO,Frederico de Souza Aleixo,1
+Bachar. em Engenharia Civil,Materiais de Construção II,3,10,MATUTINO,Diego Borja Ferreira,0
+Bachar. em Engenharia Civil,Introdução à Logística,1,10,MATUTINO,Antônio Borges Júnior,0
+Bachar. em Engenharia Civil,Engenharia de Trafego,2,10,MATUTINO,Alan de Freitas Oliveira,0
+Bachar. em Engenharia Civil,Análise Estrutural I,2,10,MATUTINO,Paulo Henrique Menezes Silva,0
+Bachar. em Engenharia Civil,Concreto I,2,11,MATUTINO,Paulo Henrique Menezes Silva,0
+Bachar. em Engenharia Civil,Fundações I,2,11,MATUTINO,Diego Borja Ferreira,0
+Bachar. em Engenharia Civil,Projeto e Construção de Vias,3,11,MATUTINO,Alexia Regine Costa Silva,0
+Bachar. em Engenharia Civil,Estruturas de Aço,3,11,MATUTINO,Lucas de Oliveira Zuniga,0
+Bachar. em Engenharia Civil,Tecnologia da Construção II,2,11,MATUTINO,Dayane Lopes Marques Santana,0
+Bachar. em Engenharia Civil,Pavimentação,3,11,MATUTINO,Ângela Custódia Guimarães Queiroz,0
+Bachar. em Engenharia Civil,Empreendedorismo - Economia,1,11,MATUTINO,Antônio Borges Júnior,0
+Bachar. em Engenharia Civil,Optativa - Geologia de Engenharia,1,11,MATUTINO,Ângela Custódia Guimarães Queiroz,0
+Bachar. em Engenharia Civil,Projeto de Terminais,2,12,MATUTINO,Christiane Rosa de Paiva,0
+Bachar. em Engenharia Civil,Trabalho de Conclusão de Curso I,1,12,MATUTINO,Dayane Lopes Marques Santana,0
+Bachar. em Engenharia Civil,Trabalho de Conclusão de Curso II,1,12,MATUTINO,Dayane Lopes Marques Santana,0
+Bachar. em Engenharia Civil,"Pontes, Viadutos e Passarelas",2,12,MATUTINO,Valéria Conceição Mouro Costa,0
+Bachar. em Engenharia Civil,Portos e Vias Navegáveis,2,12,MATUTINO,Alexia Regine Costa Silva,0
+Bachar. em Engenharia Civil,Economia de Transportes,2,12,MATUTINO,Lucas de Oliveira Zuniga,0
+Bachar. em Engenharia Civil,Transporte Ferroviário e Metroviário e Túneis,2,12,MATUTINO,Lucas de Oliveira Zuniga,0
+Bachar. em Engenharia Civil,Optativa - Concreto Protendido,1,12,MATUTINO,Paulo Henrique Menezes Silva,0
+Bachar. em Engenharia Civil,Optativa - Libras,1,12,MATUTINO,Newton da Rocha Nogueira,0
+Técnico em Comércio Exterior,Língua Estrangeira - Inglês,1,13,INTEGRAL,Aline Gomes da Silva,0
+Técnico em Comércio Exterior,Artes,1,13,INTEGRAL,Elaine Izabel da Silva Cruz,0
+Técnico em Comércio Exterior,Geografia I,1,13,INTEGRAL,Rangel Gomes Godinho,0
+Técnico em Comércio Exterior,História,1,13,INTEGRAL,Thalles Murilo Vaz Costa,0
+Técnico em Comércio Exterior,Matemática,2,13,INTEGRAL,Oliviana Xavier do Nascimento,0
+Técnico em Comércio Exterior,Física,1,13,INTEGRAL,Marcelo dos Santos Silva,0
+Técnico em Comércio Exterior,Química I,1,13,INTEGRAL,Thiago Cardoso de Deus,0
+Técnico em Comércio Exterior,Biologia I,1,13,INTEGRAL,Juliana Pfrimer Capuzzo,0
+Técnico em Comércio Exterior,Filosofia,1,13,INTEGRAL,João Paulo Alves do Reis,0
+Técnico em Comércio Exterior,Sociologia,1,13,INTEGRAL,Marcelo Augusto de Lacerda Borges,0
+Técnico em Comércio Exterior,Educação Física,2,13,INTEGRAL,Júlio César da Cunha,0
+Técnico em Comércio Exterior,Fundamentos de Administração e Administração de Materiais,1,13,INTEGRAL,Marcelo Ferreira Milhomens,0
+Técnico em Comércio Exterior,Introdução ao Comércio Exterior,1,13,INTEGRAL,Luciano Nunes da Silva,0
+Técnico em Comércio Exterior,Marketing Internacional e Técnicas de Negociação,1,13,INTEGRAL,Simone Maria Moura Mesquita,0
+Técnico em Comércio Exterior,Economia Internacional e Câmbio,1,13,INTEGRAL,France de Aquino,0
+Técnico em Comércio Exterior,Optativa - Introdução a Informática,1,13,INTEGRAL,Francisco Rodrigues Lemes,0
+Técnico em Comércio Exterior,Optativa - Introdução a Pesquisa e Inovação,1,13,INTEGRAL,Patrícia Azevedo dos Santos,0
+Técnico em Comércio Exterior,Língua Portuguesa e Literatura Brasileira,1,14,INTEGRAL,Michele Siqueira,0
+Técnico em Comércio Exterior,Língua Estrangeira - Inglês,1,14,INTEGRAL,Maria Carolina Terra Heberlein,0
+Técnico em Comércio Exterior,Geografia II,1,14,INTEGRAL,Sandro de Oliveira Safadi,0
+Técnico em Comércio Exterior,História,1,14,INTEGRAL,Thalles Murilo Vaz Costa,0
+Técnico em Comércio Exterior,Matemática,1,14,INTEGRAL,Oliviana Xavier do Nascimento,0
+Técnico em Comércio Exterior,Física,1,14,INTEGRAL,Rodrigo Claudino Diogo,0
+Técnico em Comércio Exterior,Química II,1,14,INTEGRAL,Lilian Tatiane Ferreira de Melo Camargo,0
+Técnico em Comércio Exterior,Biologia II,1,14,INTEGRAL,Juliana Pfrimer Capuzzo,0
+Técnico em Comércio Exterior,Filosofia,1,14,INTEGRAL,João Paulo Alves do Reis,0
+Técnico em Comércio Exterior,Sociologia,1,14,INTEGRAL,Enrico Paternostro Bueno da Silva,0
+Técnico em Comércio Exterior,Educação Física,2,14,INTEGRAL,Cristina Gomes de Oliveira Teixeira,0
+Técnico em Comércio Exterior,Estatística,1,14,INTEGRAL,Eder Silva de Brito,0
+Técnico em Comércio Exterior,Gestão Ambiental,1,14,INTEGRAL,Marcelo Ferreira Milhomens,0
+Técnico em Comércio Exterior,Oficina de arte,1,14,INTEGRAL,Elaine Izabel da Silva Cruz,0
+Técnico em Comércio Exterior,Empreendedorismo,1,14,INTEGRAL,Simone Maria Moura Mesquita,0
+Técnico em Comércio Exterior,Análise e Práticas Financeira e Orçamentária,2,14,INTEGRAL,France de Aquino,0
+Técnico em Comércio Exterior,Sistemática de Exportação e Importação,2,14,INTEGRAL,Paulo Cesar Campos,0
+Técnico em Comércio Exterior,Logística Internacional,1,14,INTEGRAL,Luciano Nunes da Silva,0
+Técnico em Comércio Exterior,Língua Portuguesa e Literatura Brasileira,1,15,INTEGRAL,Carlos Magno da Mata,0
+Técnico em Comércio Exterior,Geografia III,1,15,INTEGRAL,Rangel Gomes Godinho,0
+Técnico em Comércio Exterior,História,1,15,INTEGRAL,Jacques Elias de Carvalho,0
+Técnico em Comércio Exterior,Matemática,1,15,INTEGRAL,Wesley da Silva Ruys,0
+Técnico em Comércio Exterior,Física,1,15,INTEGRAL,Marcelo dos Santos Silva,0
+Técnico em Comércio Exterior,Química III,1,15,INTEGRAL,Gracielle Oliveira Sabbag Cunha,0
+Técnico em Comércio Exterior,Biologia III,1,15,INTEGRAL,Juliana Pfrimer Capuzzo,0
+Técnico em Comércio Exterior,Filosofia III,1,15,INTEGRAL,Daniel Silva Barbosa,0
+Técnico em Comércio Exterior,Sociologia,1,15,INTEGRAL,Reynaldo Zorzi Neto,0
+Técnico em Comércio Exterior,"Educação física, saúde, lazer e trabalho",1,15,INTEGRAL,Júlio César da Cunha,0
+Técnico em Comércio Exterior,Inglês para Negócios,1,15,INTEGRAL,Aline Gomes da Silva,0
+Técnico em Comércio Exterior,Contabilidade Geral e Gestão de Custos no Comércio Exterior,1,15,INTEGRAL,France de Aquino,0
+Técnico em Comércio Exterior,Direito Internacional Privado e Legislação Aduaneira,1,15,INTEGRAL,Luciano Nunes da Silva,0
+Técnico em Comércio Exterior,Gestão da Informação e Comércio eletrônico,1,15,INTEGRAL,Marcelo Ferreira Milhomens,0
+Técnico em Edificações,Língua Portuguesa e Literatura Brasileira,2,16,INTEGRAL,Suilei Monteiro Giavara,0
+Técnico em Edificações,Língua Estrangeira – Inglês,1,16,INTEGRAL,Aline Gomes da Silva,0
+Técnico em Edificações,Arte,1,16,INTEGRAL,Elza Gabriela Godinho Miranda,0
+Técnico em Edificações,Geografia I,1,16,INTEGRAL,Rangel Gomes Godinho,0
+Técnico em Edificações,História,1,16,INTEGRAL,Thalles Murilo Vaz Costa,0
+Técnico em Edificações,Matemática,2,16,INTEGRAL,Oliviana Xavier do Nascimento,0
+Técnico em Edificações,Física,1,16,INTEGRAL,Eder Dourado dos Santos,0
+Técnico em Edificações,Química I,1,16,INTEGRAL,Thiago Cardoso de Deus,0
+Técnico em Edificações,Biologia I,1,16,INTEGRAL,Juliana Pfrimer Capuzzo,0
+Técnico em Edificações,Filosofia,1,16,INTEGRAL,João Paulo Alves do Reis,0
+Técnico em Edificações,Sociologia,1,16,INTEGRAL,Marcelo Augusto de Lacerda Borges,0
+Técnico em Edificações,Educação Física,2,16,INTEGRAL,Ewerton Rodrigo Gassi,0
+Técnico em Edificações,Matemática Aplicada,1,16,INTEGRAL,Eder Silva de Brito,0
+Técnico em Edificações,Física Aplicada,1,16,INTEGRAL,Rodrigo Claudino Diogo,0
+Técnico em Edificações,"Saúde, Higiene e Segurança do Trabalho",1,16,INTEGRAL,Dayane Lopes Marques Santana,0
+Técnico em Edificações,Desenho Básico,2,16,INTEGRAL,Lívia Ferreira Santana,1
+Técnico em Edificações,Materiais de Construção,2,16,INTEGRAL,Diego Borja Ferreira,0
+Técnico em Edificações,Optativa - Introdução à Pesquisa e Inovação,1,16,INTEGRAL,Patrícia Azevedo dos Santos,0
+Técnico em Edificações,Optativa - Introdução à Informática,1,16,INTEGRAL,Francisco Rodrigues Lemes,0
+Técnico em Edificações,Língua Portuguesa e Literatura Brasileira,1,17,INTEGRAL,Michele Siqueira,0
+Técnico em Edificações,Língua Estrangeira – Inglês,1,17,INTEGRAL,Maria Carolina Terra Heberlein,0
+Técnico em Edificações,Geografia II,1,17,INTEGRAL,Sandro de Oliveira Safadi,0
+Técnico em Edificações,História,1,17,INTEGRAL,Thalles Murilo Vaz Costa,0
+Técnico em Edificações,Matemática,1,17,INTEGRAL,Oliviana Xavier do Nascimento,0
+Técnico em Edificações,Física,1,17,INTEGRAL,Rodrigo Claudino Diogo,0
+Técnico em Edificações,Química II,1,17,INTEGRAL,Lilian Tatiane Ferreira de Melo Camargo,0
+Técnico em Edificações,Biologia II,1,17,INTEGRAL,Juliana Pfrimer Capuzzo,0
+Técnico em Edificações,Filosofia,1,17,INTEGRAL,João Paulo Alves do Reis,0
+Técnico em Edificações,Sociologia,1,17,INTEGRAL,Enrico Paternostro Bueno da Silva,0
+Técnico em Edificações,Educação Física,2,17,INTEGRAL,Cristina Gomes de Oliveira Teixeira,0
+Técnico em Edificações,Oficina de Arte,1,17,INTEGRAL,Elza Gabriela Godinho Miranda,0
+Técnico em Edificações,Mecânica dos Solos,2,17,INTEGRAL,Alexia Regine Costa Silva,0
+Técnico em Edificações,Desenho Arquitetônico,2,17,INTEGRAL,Lívia Ferreira Santana,1
+Técnico em Edificações,Topografia,1,17,INTEGRAL,Patrícia Azevedo dos Santos,0
+Técnico em Edificações,Tecnologia das Construções,2,17,INTEGRAL,Lívia Ferreira Santana,0
+Técnico em Edificações,Instalações Hidro-sanitárias,2,17,INTEGRAL,Christiane Rosa de Paiva,0
+Técnico em Edificações,Noções de Estruturas,1,17,INTEGRAL,Valéria Conceição Mouro Costa,0
+Técnico em Edificações,Língua Portuguesa e Literatura Brasileira,1,18,INTEGRAL,Carlos Magno da Mata,0
+Técnico em Edificações,Geografia III,1,18,INTEGRAL,Rangel Gomes Godinho,0
+Técnico em Edificações,História,1,18,INTEGRAL,Jacques Elias de Carvalho ,0
+Técnico em Edificações,Matemática,1,18,INTEGRAL,Wesley da Silva Ruys,0
+Técnico em Edificações,Física,1,18,INTEGRAL,Marcelo dos Santos Silva,0
+Técnico em Edificações,Química III,1,18,INTEGRAL,Gracielle Oliveira Sabbag Cunha,0
+Técnico em Edificações,Biologia III,1,18,INTEGRAL,Juliana Pfrimer Capuzzo,0
+Técnico em Edificações,Filosofia III,1,18,INTEGRAL,Daniel Silva Barbosa,0
+Técnico em Edificações,Sociologia,1,18,INTEGRAL,Reynaldo Zorzi Neto,0
+Técnico em Edificações,"Educação Física, Saúde, Lazer e Trabalho",1,18,INTEGRAL,Júlio César da Cunha,0
+Técnico em Edificações,Tecnologia das Construções,1,18,INTEGRAL,Dayane Lopes Marques Santana,0
+Técnico em Edificações,Desenho Assistido por Computador,1,18,INTEGRAL,Christiane Rosa de Paiva,0
+Técnico em Edificações,Instalações Elétricas,1,18,INTEGRAL,Christiane Rosa de Paiva,0
+Técnico em Edificações,Orçamento,1,18,INTEGRAL,Dayane Lopes Marques Santana,0
+Técnico em Química,Filosofia I,1,19,INTEGRAL,João Paulo Alves do Reis,0
+Técnico em Química,Sociologia I,1,19,INTEGRAL,Marcelo Augusto de Lacerda Borges,0
+Técnico em Química,Língua Estrangeira – Inglês I,1,19,INTEGRAL,Aline Gomes da Silva,0
+Técnico em Química,Artes,1,19,INTEGRAL,Abilio de Jesus Carrascal,0
+Técnico em Química,Geografia I,1,19,INTEGRAL,Rangel Gomes Godinho,0
+Técnico em Química,História,1,19,INTEGRAL,Thalles Murilo Vaz Costa,0
+Técnico em Química,Física I,1,19,INTEGRAL,Raíssa Freire Santos de Paiva,0
+Técnico em Química,Química I,1,19,INTEGRAL,Thiago Cardoso de Deus,0
+Técnico em Química,Biologia I,1,19,INTEGRAL,Kellen Christina Malheiros Borges,0
+Técnico em Química,Química Inorgânica,1,19,INTEGRAL,Thiago Cardoso de Deus,0
+Técnico em Química,Língua Portuguesa e Literatura Brasileira I,2,19,INTEGRAL,Suilei Monteiro Giavara,0
+Técnico em Química,Matemática I,2,19,INTEGRAL,Oliviana Xavier do Nascimento,0
+Técnico em Química,Educação Física I,2,19,INTEGRAL,Ewerton Rodrigo Gassi,0
+Técnico em Química,Práticas de Laboratório (Turma A),1,19,INTEGRAL,Luciane Dias Pereira,0
+Técnico em Química,Práticas de Laboratório (Turma B),1,19,INTEGRAL,Rejane Dias Pereira Mota,0
+Técnico em Química,Noções Básicas de Tecnologia de Alimentos,1,19,INTEGRAL,Rejane Dias Pereira Mota,0
+Técnico em Química,Boas Práticas de Fabricação e Análise de Perigos e Pontos Críticos de Controle,1,19,INTEGRAL,Vanessa Carneiro Leite,1
+Técnico em Química,Gestão Ambiental,1,19,INTEGRAL,Vanessa Carneiro Leite,1
+Técnico em Química,Optativa - Introdução a Pesquisa e Inovação,1,19,INTEGRAL,Vanessa Carneiro Leite,0
+Técnico em Química,Optativa - Introdução a Informática,1,19,INTEGRAL,Francisco Rodrigues Lemes,0
+Técnico em Química,Arte e Processos de Criação,1,20,INTEGRAL,Abilio de Jesus Carrascal,0
+Técnico em Química,Bioquímica,1,20,INTEGRAL,Kellen Christina Malheiros Borges,0
+Técnico em Química,"Gerenciamento e Tratamento de Águas, Enfluentes e Resíduos",2,20,INTEGRAL,Vanessa Carneiro Leite,1
+Técnico em Química,Química Analítica Qualitativa e Quantitativa,2,20,INTEGRAL,Rejane Dias Pereira Mota,1
+Técnico em Química,Operações Unitárias,2,20,INTEGRAL,Luciane Dias Pereira,0
+Técnico em Química,Físico Química,1,20,INTEGRAL,Thiago Eduardo Pereira Alves,0
+Técnico em Química,Estatística,1,20,INTEGRAL,Eder Silva de Brito,0
+Técnico em Química,Educação Física II,2,20,INTEGRAL,Cristina Gomes de Oliveira Teixeira,0
+Técnico em Química,Biologia II,1,20,INTEGRAL,Juliana Pfrimer Capuzzo,0
+Técnico em Química,Língua Estrangeira - Inglês II,1,20,INTEGRAL,Maria Carolina Terra Heberlein,0
+Técnico em Química,Química II,1,20,INTEGRAL,Lilian Tatiane Ferreira de Melo Camargo,0
+Técnico em Química,Matemática II,1,20,INTEGRAL,Oliviana Xavier do Nascimento,0
+Técnico em Química,Física II,1,20,INTEGRAL,Rodrigo Claudino Diogo,0
+Técnico em Química,Sociologia II,1,20,INTEGRAL,Enrico Paternostro Bueno da Silva,0
+Técnico em Química,História II,1,20,INTEGRAL,Adelmar Santos de Araújo,0
+Técnico em Química,Filosofia II,1,20,INTEGRAL,João Paulo Alves do Reis,0
+Técnico em Química,Geografia II,1,20,INTEGRAL,Sandro de Oliveira Safadi,0
+Técnico em Química,Língua Portuguesa e Literatura Brasileira II,1,20,INTEGRAL,Michele Siqueira,0
+Técnico em Química,Língua Portuguesa e Literatura Brasileira III,1,21,INTEGRAL,Carlos Magno da Mata,0
+Técnico em Química,Geografia III,1,21,INTEGRAL,Rangel Gomes Godinho,0
+Técnico em Química,Filosofia III,1,21,INTEGRAL,Daniel Silva Barbosa,0
+Técnico em Química,História III,1,21,INTEGRAL,Jacques Elias de Carvalho,0
+Técnico em Química,Sociologia III,1,21,INTEGRAL,Reynaldo Zorzi Neto,0
+Técnico em Química,Física III,1,21,INTEGRAL,Marcelo dos Santos Silva,0
+Técnico em Química,Matemática III,1,21,INTEGRAL,Maria de Oliveira Vaz dos Santos,0
+Técnico em Química,Química III,1,21,INTEGRAL,Gracielle Oliveira Sabbag Cunha,0
+Técnico em Química,Microbiologia Geral,1,21,INTEGRAL,Kellen Christina Malheiros Borges,0
+Técnico em Química,Química Orgânica,1,21,INTEGRAL,Gracielle Oliveira Sabbag Cunha,0
+Técnico em Química,Biologia III,1,21,INTEGRAL,Juliana Pfrimer Capuzzo,0
+Técnico em Química,Controle Estatístico de Processos,1,21,INTEGRAL,Luciane Dias Pereira,0
+Técnico em Química,Processos Químicos Industriais,1,21,INTEGRAL,Luciane Dias Pereira,0
+Técnico em Química,"Educação Física, Saúde, Lazer e Trabalho",1,21,INTEGRAL,Júlio César da Cunha,0
